@@ -19,7 +19,7 @@
 <p><pre><code>pip install -r requirements.txt</code></pre></p>
 
 <p>Запускаем скрипт:</p>
-<p><pre><code>python main.py</code></pre></code>
+<p><pre><code>python3 main.py</code></pre></code>
 
 <p>Дальше вводим номер с текстом и готово !</p>
 
